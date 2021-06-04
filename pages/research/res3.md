@@ -33,8 +33,8 @@ Koo allows handles in other languages where the HANDLE may be in Hindi, Kannada,
 
 > Example:
 
-<textarea rows="4" cols="100">
-https://www.kooapp.com/profile/%E0%B2%A8%E0%B2%BE_%E0%B2%95%E0%B2%82%E0%B2%A1__%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1_%E0%B2%B2%E0%B3%8B%E0%B2%95</textarea>
+
+[https://www.kooapp.com/profile/%E0%B2%A8%E0%B2%BE_%E0%B2%95%E0%B2%82%E0%B2%A1__%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1_%E0%B2%B2%E0%B3%8B%E0%B2%95](https://www.kooapp.com/profile/%E0%B2%A8%E0%B2%BE_%E0%B2%95%E0%B2%82%E0%B2%A1__%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1_%E0%B2%B2%E0%B3%8B%E0%B2%95)
 
 Above example is a HANDLE in Kannada but may show as above due to URL Encoding. If you face problem in decoding the URL, you can use [CyberChef Tool](https://gchq.github.io/CyberChef/) on [GitHub](https://github.com/). 
 

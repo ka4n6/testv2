@@ -1,7 +1,7 @@
 title: Must Follow Twitter Accounts for Noobs in Digital Forensics
-date: 13 Apr 21
-research: research
-tagosint: osint
+date: 31 May 21
+resources: resources
+tagdfir: dfir
 tagtraining: training
 author: ka4n6
 description: It is often confusing for the beginners in any field of expertise to decide on where to start and how to go about it. Twitter is very simple and easy way for the beginners to get familiarized with the stuff related to digital forensics.
