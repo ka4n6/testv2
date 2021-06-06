@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+
+{% block body %}
+<div>    
+    {% for page in pages %}
+    <article>
+        <a style="text-decoration:none;" href="{{ page.path }}.html"><h2>{{ page.title }}</h2></a>
+        <p>{{ page.description }}</p>
+        <p>{{ page.date }} <span>&nbsp;&nbsp;  By   <strong><i> KA Forensics</i></strong></span></p>
+        <hr>
+    </article>
+    {% endfor %}
+</div>
+
+{% endblock %}

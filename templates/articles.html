@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+
+{% block body %}
+<div> 
+{% for page in pages %}
+<a href="{{ page.path }}.html"><h2>{{ page.title }}</h2></a>
+<p>{{ page.description }}</p>
+
+<p>{{ page.date }}</p>
+<hr>
+{% endfor %}
+</div>
+{% endblock %}
