@@ -3,9 +3,8 @@ date: 24 Apr 21
 research: research
 tagosint: osint
 tagtraining: training
-author: ka4n6
-description: Koo App is an Indian microblogging and social networking site based in Bangalore.  It is being projected as an alternative of twitter in India and has features almost similar to twitter.  One unique feature of Koo is that it is available in multiple languages allowing people to communicate in local languages. As of now it is supporting five languages (English, Hindi, Kannada, Tamil and Telugu).
-
+author: KA Forensics
+description: Koo App is an Indian microblogging and social networking site based in Bangalore.  It is being projected as an alternative of twitter in India and has features almost similar to twitter.  
 
 
 ![koo](\static\research\koo1.png)

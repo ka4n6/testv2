@@ -3,7 +3,7 @@ date: 13 Apr 21
 research: research
 tagosint: osint
 tagtraining: training
-author: ka4n6
+author: KA Forensics
 description: Unfortunately vehicle numbers are diverse across the globe leading to requirement of local resources to identify the country where vehicle is registered and also identify the owner of the vehicle.
 
 
@@ -34,12 +34,12 @@ Please find State/Union Territory codes and RTO codes [here](https://en.wikipedi
 ### [Go Digit](https://www.godigit.com/traffic-rules/how-to-find-vehicle-owner-details-by-registration-number)
 This is an excellent tool to search and find vehicle owner. In fact it provides owner's private data and also some data related to vehicle including Chassis Number and Engine Number. But major setback is that it requires a valid mobile phone number requiring validation through OTP to fetch vehicle details.
 
->![Screenshot of vehicle search on Go Digit](\static\research\godigit1.png)
+![Screenshot of vehicle search on Go Digit](\static\research\godigit1.png)
 
 ### [Vahan E-services](https://vahan.nic.in/nrservices/faces/user/citizen/citizenlogin.xhtml)
 This is a government site managed by Ministry of Road Transport & Highways, Government of India. Though this portal requires registration with valid email ID and valid phone number, provides authentic information on a vehicle.
 
->![Screenshot of information obtained from Vahan E-services](\static\research\vahan1.png)
+![Screenshot of information obtained from Vahan E-services](\static\research\vahan1.png)
 
 ### [Vahan Info](https://vahaninfos.com/vehicle-details-by-number-plate)
 This provides us basic vehicle details including owner name. Best feature is there no need of creating account and it has simple user interface. You can right away enter vehicle number without space and enter Captcha to directly access the info.

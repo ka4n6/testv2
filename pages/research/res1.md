@@ -3,7 +3,7 @@ date: 30 Mar 21
 research: research
 tagosint: osint
 tagtraining: training
-author: ka4n6
+author: KA Forensics
 description: Searching Indian People and Phone Numbers using websites and resources
 
 

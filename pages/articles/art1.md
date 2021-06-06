@@ -3,7 +3,7 @@ date: 07 Feb 21
 articles: articles
 tagdfir: digitalforensics
 tagbasics: basics
-author: ka4n6
+author: KA Forensics
 description: New trends in digital forensics
 
 

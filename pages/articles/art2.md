@@ -3,7 +3,7 @@ date: 14 Feb 21
 articles: articles
 tagtraining: training
 tagbasics: basics
-author: ka4n6
+author: KA Forensics
 description: Efforts are made to compile a list of different Masters' Degree Programs in 'Cybersecurity' offered by different universities of different countries.
 
 

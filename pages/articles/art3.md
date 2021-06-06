@@ -4,7 +4,7 @@ articles: articles
 tagdfir: digitalforensics
 tagtraining: training
 tagbasics: basics
-author: ka4n6
+author: KA Forensics
 description: Blog lists all the online master's degree programmes on Digital Forensics
 
 
