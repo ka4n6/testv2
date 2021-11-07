@@ -8,7 +8,7 @@ buttercms-python==0.7
 cachelib==0.1.1
 certifi==2020.6.20
 chardet==3.0.4
-Click==
+Click
 colorama==0.4.4
 cs50==5.1.0
 decorator==4.4.2
