@@ -8,7 +8,7 @@ description: We often struggle to find the right tool and tend to miss many tool
 
 
 
-![reso2](\static\resources\reso2.png)
+![twitter](\static\resources\reso2.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -42,7 +42,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [Advanced EFS Data Recovery | Elcomsoft Co.Ltd.](https://www.elcomsoft.com/aefsdr.html)
 - [Elcomsoft Desktop Forensic Bundle | Elcomsoft Co.Ltd.](https://www.elcomsoft.com/edfb.html)
 - [Magnet ACQUIRE | Magnet Forensics](https://www.magnetforensics.com/resources/magnet-acquire/)
-- https://github.com/bshavers/Mini-WinFE
+- [Mini-WinFE](https://github.com/bshavers/Mini-WinFE)
 
 ## Mobile Forensics
 
@@ -69,7 +69,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [RealityNet/android_triage](https://github.com/RealityNet/android_triage)
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP)
 - [ArtEx www.doubleblak.com](https://www.doubleblak.com/software.php)
-- https://www.tenorshare.com/
+- [Tenorshare](https://www.tenorshare.com/)
 - [Delta](https://duffy.app/delta/)
 - [GitHub - sromku/adb-export: Bash script to export android content providers data to csv](https://github.com/sromku/adb-export)
 - [GitHub - Magpol/AndroidLiveInfo: Script to gather basic information about a live android device.](https://github.com/Magpol/AndroidLiveInfo)
@@ -128,7 +128,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [Computer Forensics Software for Windows](https://www.nirsoft.net/computer_forensic_software.html)
 - [MetaDiver – EasyMetaData](https://www.easymetadata.com/metadiver-2/)
 - [MDViewer 1.0 initial release – EasyMetaData](https://www.easymetadata.com/2019/01/mdviewer-1-0-initial-release/)
-- https://www.brimorlabs.com/Tools/
+- [Brimor Labs](https://www.brimorlabs.com/Tools/)
 - [Bulk Extractor with Record Carving](https://www.kazamiya.net/en/bulk_extractor-rec)
 - [Thumbs Viewer](https://thumbsviewer.github.io/)
 - [Thumbcache Viewer](https://thumbcacheviewer.github.io/)
@@ -146,7 +146,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [mac4n6/APOLLO](https://github.com/mac4n6/APOLLO)
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP)
 - [GitHub  - sepinf-inc/IPED: IPED Digital Forensic Tool](https://github.com/sepinf-inc/IPED)
-- https://github.com/strozfriedberg/lightgrep
+- [LightGrep](https://github.com/strozfriedberg/lightgrep)
 
 ## Recovery, Carving and Repairing 
 
@@ -197,7 +197,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [Oxygen Forensics](https://www.oxygen-forensic.com/en/)
 - [GearGadget - Cyber Forensics @ Marshall University](https://www.marshall.edu/cyber/geargadget/)
 
-- https://www.tenorshare.com/products/reiboot-for-android.html)
+- [Tenorshare ReiBoot for Android](https://www.tenorshare.com/products/reiboot-for-android.html)
 
 ## USB Forensics 
 
@@ -236,13 +236,13 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [Teeltech.com](https://www.teeltech.com/)
 - [Mobile Forensic Hardware - HancomWITH](http://www.hancomgmd.com/product/mobile-forensic-hardware/)
 - [Acelaboratory.com](https://www.acelaboratory.com/)
-- https://github.com/mvt-project/mvt
+- [https://github.com/mvt-project/mvt](https://github.com/mvt-project/mvt)
 - [Tenorshare ReiBoot](https://www.tenorshare.com/products/reiboot.html)
 
 ## Crypto / Dark Web 
 
 - [Graphsense.info](https://graphsense.info/)
-- https://www.coinbase.com/analytics
+- [Coinbase Analytics](https://www.coinbase.com/analytics)
 - [TRM](https://www.trmlabs.com/)
 - [Chainalysis](https://www.chainalysis.com/)
 - [Elliptic](https://www.elliptic.co/)
@@ -251,11 +251,11 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [RIPE Network Coordination Centre](https://www.ripe.net/)
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [Coin Market Cap](https://coinmarketcap.com/)
-- https://www.blockchain.com/explorer
+- [Bitcoin Explorer](https://www.blockchain.com/explorer)
 - [COINØMON – netsearch](https://www.netsearch.cz/products/coinomon/)
 - [WalletExplorer](https://www.walletexplorer.com/)
 - [Bitcointracker.co](https://bitcointracker.co/)
-- https://blockchair.com/
+- [blockchair.com](https://blockchair.com/)
 - [Blockcypher](https://live.blockcypher.com/)
 
 ## Steganography Detection 
@@ -266,7 +266,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 
 ## Other Tools
 
-- https://www.cellebrite.com/en/frontliner/
+- [Cellebrite frontliner](https://www.cellebrite.com/en/frontliner/)
 - [Cellebrite Responder | Securely Collect Digital Data and Surface Insights](https://www.cellebrite.com/en/responder/)
 - [F-Response](https://www.f-response.com/)
 - [Cyberduck](https://cyberduck.io/)
@@ -298,20 +298,21 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 
 ## Integrated frameworks/platforms
 
-- [Magnet Digital Investigation Suite | Magnet Forensics](https://www.magnetforensics.com/products/magnet-digital-investigation-suite/) 
-- [SIFT Workstation | SANS Institute](https://www.sans.org/tools/sift-workstation/) 
-- [X-Ways Forensics: Integrated Computer Forensics Software](https://www.x-ways.net/forensics/index-m.html) 
-- [Brimor Labs](https://www.brimorlabs.com/Tools/)
+ - [Magnet Digital Investigation Suite | Magnet Forensics](https://www.magnetforensics.com/products/magnet-digital-investigation-suite/) 
+	- [SIFT Workstation | SANS Institute](https://www.sans.org/tools/sift-workstation/) 
+	- [X-Ways Forensics: Integrated Computer Forensics Software](https://www.x-ways.net/forensics/index-m.html) 
+	- [Brimor Labs](https://www.brimorlabs.com/Tools/)
 
 ## VMs & Distros 
 
-- [SIFT Workstation | SANS Institute](https://www.sans.org/tools/sift-workstation/) 
-- [Remnux.org](https://remnux.org/) 
-- [Tsurugi](https://tsurugi-linux.org/downloads.php) 
-- [philhagen/sof-elk](https://github.com/philhagen/sof-elk) 
-- [PALADIN](https://sumuri.com/software/paladin/) 
-- [Kali Linux](https://www.kali.org/get-kali/) 
-- [DFIRmadness/infosec-fortress](https://github.com/DFIRmadness/infosec-fortress) 
-- [fireeye/flare-vm](https://github.com/fireeye/flare-vm) 
-- [CSI Linux](https://csilinux.com/download.html) 
-- [CAINE](https://www.caine-live.net/page5/page5.html)
+	- [SIFT Workstation | SANS Institute](https://www.sans.org/tools/sift-workstation/) 
+	- [Remnux.org](https://remnux.org/) 
+	- [Tsurugi](https://tsurugi-linux.org/downloads.php) 
+	- [philhagen/sof-elk](https://github.com/philhagen/sof-elk) 
+	- [PALADIN](https://sumuri.com/software/paladin/) 
+	- [Kali Linux](https://www.kali.org/get-kali/) 
+	- [DFIRmadness/infosec-fortress](https://github.com/DFIRmadness/infosec-fortress) 
+	- [fireeye/flare-vm](https://github.com/fireeye/flare-vm) 
+	- [CSI Linux](https://csilinux.com/download.html) 
+	- [CAINE](https://www.caine-live.net/page5/page5.html)
+
