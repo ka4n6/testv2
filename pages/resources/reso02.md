@@ -30,7 +30,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [X-Ways Imager: Best speed, most intelligent compression](https://www.x-ways.net/imager/index-m.html)
 - [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md)
 - [Binalyze ACQUIRE | Binalyze](https://binalyze.com/acquire/)
-- [GitHub - dwmetz/CSIRT-Collect: PowerShell script to collect memory and (triage) disk forensics](https://github.com/dwmetz/CSIRT-Collect/)
+- [GitHub - dwmetz/CSIRT-Collect: Script to collect memory and (triage) disk forensics](https://github.com/dwmetz/CSIRT-Collect/)
 - [Thumbs Viewer](https://thumbsviewer.github.io/)
 - [Thumbcache Viewer](https://thumbcacheviewer.github.io/)
 - [skydive241/Regshot-Advanced](https://github.com/skydive241/Regshot-Advanced)
@@ -91,7 +91,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [Volatility Workbench](https://www.osforensics.com/tools/volatility-workbench.html)
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3)
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)
-- [GitHub - dwmetz/CSIRT-Collect: PowerShell script to collect memory and (triage) disk forensics](https://github.com/dwmetz/CSIRT-Collect/)
+- [GitHub - dwmetz/CSIRT-Collect: Script to collect memory and (triage) disk forensics](https://github.com/dwmetz/CSIRT-Collect/)
 - [kacos2000/Win10LiveInfo](https://github.com/kacos2000/Win10LiveInfo)
 - [MAGNET RAM Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/)
 
