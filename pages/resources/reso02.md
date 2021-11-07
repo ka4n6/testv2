@@ -9,6 +9,7 @@ description: We often struggle to find the right tool and tend to miss many tool
 
 
 ![reso2](\static\resources\reso2.png)
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
