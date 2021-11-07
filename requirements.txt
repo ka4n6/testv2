@@ -33,7 +33,7 @@ gunicorn==19.7.1
 hashcat==5.1.0.post3
 idna==2.10
 isort==5.7.0
-itsdangerous==1.1.0
+itsdangerous==2.0
 Jinja2==2.10.1
 lazy-object-proxy==1.4.3
 Markdown==3.1.1
