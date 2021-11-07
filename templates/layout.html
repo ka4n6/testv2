@@ -1,166 +1,176 @@
 <!DOCTYPE html>
+
 <html>
-<head>
-    <title> KA Forensics </title>
-    <meta charset="utf-8" />
-    <meta name="google-site-verification" content="iEnz5hsFe2-rE06glAk6NAuSFDjUCJhWdLGXhWMlI1M" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="\static\img\favicon2.png" type="image/x-icon"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="google-site-verification" content="iEnz5hsFe2-rE06glAk6NAuSFDjUCJhWdLGXhWMlI1M" />
+		<link rel="shortcut icon" href="\static\img\favicon2.png" type="image/x-icon" />
+		<title>KA Forensics</title>
+		<style>
+			
+			body {
+				width: 100%; height:100%; 
+				background-color: #F5F5F5;
+				padding:0; overflow: scroll;
+				font-family: Sans-Serif; font-size: larger;
+				line-height: 1.5em;
+			}
 
-<style>
-    .header-bg {
-        background-image: url("../static/img/head1.png"); height:28vw; width:100vw; display:block;
-        margin-left: -1.0vw; margin-top: -31vw; background-position: center; background-color: ivory;
-        background-repeat: no-repeat; background-size: cover; position: absolute; 
-    }
-    html {
-        overflow-x: hidden;
-    }  
-    body {
-        background-color: rgb(246, 247, 250);
-    }  
+			header {
+				padding: 60px;
+  				text-align: center;
+  				background: #333;	
+			}
+			
+			header h1 {
+				margin: 5px; font-family:Serif; cursor:pointer;
+				color: Tomato; text-align: center; line-height: 1.5em;
+  				font-size: 60px; font-weight: bold; padding: 35px;
+			}
+			
+			.subtitle {
+				font-size: 100%; font-weight: bold; color:#8EE4AF;
+			}
 
-    .heading {
-        color:#047979; margin-top: 10.5vw; font-size: 5vw; position:absolute;
-        text-align:right; margin-left: 56vw; cursor: pointer;
-        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px; margin-left:20px; margin-right:40px;
+				float: left; text-align:justify;
+			}
+			
+			
+			footer {
+				padding: 20px;
+  				text-align: center;
+  				background: #333;
+			}
+			.copyright { 
+				margin: 30px; color: white; font-size:100%; font-weight:bold; line-height: 1.5em;
+			}
+	
+			.wrapper {
+				overflow: hidden;
+			}
+						
+			p {
+				color: #555;
+			}
+			
+			.topnav .dropdown {
+				overflow: hidden;
+				background-color: #333;
+				}
 
-    }
-    .head-btn {
-        background-color: #2a2b2b; margin-top: 22vw; display:float; position: relative; width:100vw; 
-        padding:1vw;
-    }
-   
-    .head-btn1 {
-        background-color: #2a2b2b;
-        color: white; margin-left:2vw; width:15vw;
-        padding: 1vw; 
-        font-size: 2.5vw;
-        border: none;
-    }
+			.topnav a {
+				float: left; cursor:pointer; margin-right: 10px; margin-left: 10px;
+				color: #f2f2f2;
+				text-align: center;
+				padding: 14px 16px;
+				text-decoration: none;
+				font-size: 25px; font-weight: bold;
+				}
 
-    .drop-btn {
-        background-color: #2a2b2b;
-        color: white;
-        padding: 1vw; margin-left:2vw;
-        font-size: 2.5vw;
-        border: none;
-    }
-    .dropdown-btn {
-        position: relative;
-        display: inline-block;}
-    .dropdown-content {
-        display: none;
-        position: absolute;
-        background-color: #f1f1f1;
-        min-width: 17vw;
-        box-shadow: 0vw 2vw 4vw 0vw rgba(0,0,0,0.2);
-        z-index: 1;
-    }
-    .dropdown-content a {
-        color: black; font-weight: bold; font-size: 2vw;
-        padding: 1.5vw 3vw;
-        text-decoration: none;
-        display: block;
-    }
-  
-    .dropdown-content a:hover {background-color: #ddd;}    
-    .dropdown-btn:hover .dropdown-content {display: block;}  
-    .dropdown-btn:hover .drop-btn {background-color: #047979;}
-    .head-btn1:hover {background-color:#047979;}
+			.topnav a:hover {
+				background-color: #ddd;
+				color: black;
+				}
 
-    .home-btn {
-        background-color: #2a2b2b;
-        border: none;
-        color: white;
-        padding: 0.75vw 1vw;
-        font-size: 3vw;
-        margin-top: -20vw;
-        margin-left: 1vw;
-        position: absolute;
-        cursor: pointer;
-    }
+			.topnav a.active {
+				background-color: #4CAF50;
+				color: white;
+				}
+			.dropbtn {
+				background-color: #4CAF50;
+				color: white;
+				padding: 16px;
+				font-size: 25px; font-weight: bold;
+				border: none;
+				cursor: pointer;
+				}
 
-    .home-btn:hover {
-        background-color: #047979;
-    }
+			.dropdown {
+				float: right; position: absolute; margin-left: 80%; 
+				margin-right: 20%; padding: 14px 16px;	
+			}
 
-    .text {
-        margin-top: 29vw; margin-left: 4vw; margin-right: 6vw; margin-bottom: 12vw;
-        max-width: 100vw; line-height:normal; color: #000033; text-align:justify; font-size:large; 
-        word-wrap:break-word;background-color:rgb(246, 247, 250); padding:2vw;
-    }
-    .footer-bg {
-        background-color: #2a2b2b; width: 100vw; height: 21vw;
-        margin-left: -0.6vw; margin-bottom: -0.8vw;
-    }
-    .footer-divs {
-        display:flex; color: rgb(238, 238, 170); font-size: 2vw;
-    }
-    .footer-head {
-        font-size:2vw; color: azure; margin-bottom: 0.2vw;
-    }
-    .footer1 {
-        text-align:justify ; display:grid; width:31vw; margin-left: 5vw;
-    }
-    .footer2 {
-        text-align:justify ; display:grid; width:30vw; margin-left: 10vw;
-    }
-    .footer3 {
-        text-align:justify ; display:grid; width:30vw; margin-left: 10vw;
-    }
-    
-    img {
-        max-width: 100vw;
-    }
-   
-</style>
-</head>
-<body>
-    <header class="header-bg">
-        <h1 class="heading" onclick="window.location.href='/';"> KA FORENSICS</h1>
-        <div class="head-btn">
-            <button class="head-btn1" onclick="window.location.href='/art';">Articles</button>
-            <button class="head-btn1" onclick="window.location.href='/res';" >Research</button>
-            <button class="head-btn1" onclick="window.location.href='/reso';">Resources</button>
-            <button class="head-btn1" onclick="window.location.href='/kan';">Kannada</button>
-            <div class="dropdown-btn">
-                <button class="drop-btn">Categories <i class="fa fa-caret-down"></i></button>
-                <div class="dropdown-content">
-                    <a onclick="window.location.href='/dfir';">Digital Forensics</a>
-                    <a onclick="window.location.href='/osint';">OSINT</a>
-                    <a onclick="window.location.href='/dweb';">Dark Web</a>
-                    <a onclick="window.location.href='/trg';">Training</a>
-                    <a onclick="window.location.href='/basics';">Basics</a>
-                </div>
-            </div>
-        </div>
-        <button class="home-btn" onclick="window.location.href='/';"><i class="fa fa-home"></i></button>
-    </header>
-    <div class="text">
-        <main>
-            {% block body %}{% endblock body %}
-        </main>
-    </div>
-    <footer class="footer-bg">
-        <div class="footer-divs">
-            <div class="footer1">
-                <h4 class="footer-head">Whoami &nbsp;<span>&#9819;</span></h4><br>
-                <i>
-                    I'm a cybersecurity enthusiast, a firm believer in free knowledge and equal learning opportunity for all....
-                </i>
-            </div>
-            <div class="footer2">
-                <h4 class="footer-head">Contact &nbsp; <span>&#9993;</span></h4>
-                <a>cyber.ksp@protonmail.com</a>
-            </div>
-            <div class="footer3">
-                <h4 class="footer-head">Copyright &nbsp;<span>&#169;</span></h4>
-                <p>KA Forensics © 2021</p>                       
-            </div>
-        </div>
-    </footer>
+			.dropdown-content {
+				display: none; cursor:pointer;
+				position: absolute;
+				background-color: #f9f9f9;
+				min-width: 160px;
+				box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+				z-index: 1;
+				}
 
-</body>
+			.dropdown-content a {
+				color: black;
+				padding: 12px 16px;
+				text-decoration: none;
+				display: block;
+				}
+
+			.dropdown-content a:hover {background-color: #f1f1f1}
+
+			.dropdown:hover .dropdown-content {
+				display: block;
+				}
+
+			.dropdown:hover .dropbtn {
+				background-color: #3e8e41;
+				}
+		</style>
+		
+		<script >
+		
+		</script>	
+	
+	</head>
+	
+	<body>		
+
+		<header>
+			<div>
+				<h1 onclick="window.location.href='/';"> KA <br> FORENSICS </h1>
+				<a href="https://twitter.com/hello4n6?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @hello4n6</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				<div class="topnav">
+					<a class="active" onclick="window.location.href='/';">Home</a>
+					<a onclick="window.location.href='/art';">Articles</a>
+					<a onclick="window.location.href='/res';">Research</a>
+					<a onclick="window.location.href='/reso';">Resources</a>
+					<a onclick="window.location.href='/kan';">Kannada</a>
+				</div>
+				<div class="dropdown">
+						<button class="dropbtn">Categories</button>
+						<div class="dropdown-content">
+						<a onclick="window.location.href='/dfir';">Digital Forensics</a>
+						<a onclick="window.location.href='/osint';">OSINT</a>
+						<a onclick="window.location.href='/dweb';">Dark Web</a>
+						<a onclick="window.location.href='/trg';">Training</a>
+						<a onclick="window.location.href='/basics';">Basics</a>
+						</div>
+				</div>
+				
+			</div>
+			
+		</header>
+		
+		<div class="wrapper">
+		
+			<main>
+				{% block body %}{% endblock body %}
+			</main>
+			
+			
+		</div>
+		
+		<footer>
+			<div class="copyright">
+				<p class="subtitle"> $ whoami:- 
+				I'm a cybersecurity enthusiast, 
+				a firm believer in free knowledge and equal learnig opportunity for all</p><br>
+				<p>&#169; KA Forensics</p>
+				<p>Contact: cyber.ksp@protonmail.com</p>
+			</div>
+		</footer>
+	</body>
 </html>
