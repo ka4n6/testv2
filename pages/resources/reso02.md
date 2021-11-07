@@ -73,7 +73,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [Delta](https://duffy.app/delta/)
 - [GitHub - sromku/adb-export: Bash script to export android content providers data to csv](https://github.com/sromku/adb-export)
 - [GitHub - Magpol/AndroidLiveInfo: Script to gather basic information about a live android device.](https://github.com/Magpol/AndroidLiveInfo)
-- [Passware  Kit Mobile Beta - bypass or recover PIN locks and passcodes, perform  extraction of data from locked or encrypted mobile  devicesAccountFacebookTwitterLinkedInYouTube](https://www.passware.com/kit-mobile/)
+- [Passware  Kit Mobile Beta - bypass or recover PIN locks and passcodes](https://www.passware.com/kit-mobile/)
 - [Oxygen Forensics](https://www.oxygen-forensic.com/en/products/oxygen-forensic-detective)
 - [oxygen-forensic-extractor](https://www.oxygen-forensic.com/en/products/oxygen-forensic-extractor)
 
@@ -180,7 +180,7 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 - [Magnet AXIOM Wordlist Generator | Magnet Forensics](https://www.magnetforensics.com/resources/magnet-axiom-wordlist-generator/)
 - [4uKey for Android](https://www.tenorshare.com/products/android-password-reset-tool.html)
 - [Tenorshare 4uKey](https://www.tenorshare.com/products/4ukey-unlocker.html)
-- [Passware  Kit Mobile Beta - bypass or recover PIN locks and passcodes, perform  extraction of data from locked or encrypted mobile  devicesAccountFacebookTwitterLinkedInYouTube](https://www.passware.com/kit-mobile/)
+- [Passware  Kit Mobile Beta - bypass or recover PIN locks and passcodes](https://www.passware.com/kit-mobile/)
 
 ## Drone Forensics
 
