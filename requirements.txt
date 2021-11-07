@@ -75,7 +75,7 @@ tweepy==3.9.0
 urllib3==1.25.11
 virtualenv==15.1.0
 virtualenvwrapper-win==1.2.6
-Werkzeug==0.14
+Werkzeug==2.0
 whitenoise==2.0.6
 Whoosh==2.7.4
 wrapt==1.12.1
