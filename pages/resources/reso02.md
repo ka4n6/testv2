@@ -298,21 +298,21 @@ Due to diversity in operating systems, file systems, encryption, hardware etc., 
 
 ## Integrated frameworks/platforms
 
- - [Magnet Digital Investigation Suite | Magnet Forensics](https://www.magnetforensics.com/products/magnet-digital-investigation-suite/) 
-	- [SIFT Workstation | SANS Institute](https://www.sans.org/tools/sift-workstation/) 
-	- [X-Ways Forensics: Integrated Computer Forensics Software](https://www.x-ways.net/forensics/index-m.html) 
-	- [Brimor Labs](https://www.brimorlabs.com/Tools/)
+- [Magnet Digital Investigation Suite | Magnet Forensics](https://www.magnetforensics.com/products/magnet-digital-investigation-suite/) 
+- [SIFT Workstation | SANS Institute](https://www.sans.org/tools/sift-workstation/) 
+- [X-Ways Forensics: Integrated Computer Forensics Software](https://www.x-ways.net/forensics/index-m.html) 
+- [Brimor Labs](https://www.brimorlabs.com/Tools/)
 
 ## VMs & Distros 
 
-	- [SIFT Workstation | SANS Institute](https://www.sans.org/tools/sift-workstation/) 
-	- [Remnux.org](https://remnux.org/) 
-	- [Tsurugi](https://tsurugi-linux.org/downloads.php) 
-	- [philhagen/sof-elk](https://github.com/philhagen/sof-elk) 
-	- [PALADIN](https://sumuri.com/software/paladin/) 
-	- [Kali Linux](https://www.kali.org/get-kali/) 
-	- [DFIRmadness/infosec-fortress](https://github.com/DFIRmadness/infosec-fortress) 
-	- [fireeye/flare-vm](https://github.com/fireeye/flare-vm) 
-	- [CSI Linux](https://csilinux.com/download.html) 
-	- [CAINE](https://www.caine-live.net/page5/page5.html)
+- [SIFT Workstation | SANS Institute](https://www.sans.org/tools/sift-workstation/) 
+- [Remnux.org](https://remnux.org/) 
+- [Tsurugi](https://tsurugi-linux.org/downloads.php) 
+- [philhagen/sof-elk](https://github.com/philhagen/sof-elk) 
+- [PALADIN](https://sumuri.com/software/paladin/) 
+- [Kali Linux](https://www.kali.org/get-kali/) 
+- [DFIRmadness/infosec-fortress](https://github.com/DFIRmadness/infosec-fortress) 
+- [fireeye/flare-vm](https://github.com/fireeye/flare-vm) 
+- [CSI Linux](https://csilinux.com/download.html) 
+- [CAINE](https://www.caine-live.net/page5/page5.html)
 
