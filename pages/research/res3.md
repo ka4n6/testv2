@@ -14,7 +14,7 @@ description: Koo App is an Indian microblogging and social networking site based
 
 'Koo App' is an Indian microblogging and social networking site based in Bangalore. Koo is available for download on both Android and iOS platforms. It can also be used directly on web browsers but I have observed some bugs on web browsers. As per latest data (February 2021) Koo has over 3 million users and most of the users are Indians. It is being projected as an alternative of twitter in India and has features almost similar to twitter.  One unique feature of Koo is that it is available in multiple languages allowing people to communicate in local languages. As of now it is supporting five languages (English, Hindi, Kannada, Tamil and Telugu), but has plans to add seven more Indian languages. 
 
-​Therefore Koo application could be very handy for OSINTers especially if they are working on targets based in India. Koo can also pose challenge to local law enforcement agencies in criminal investigations and intelligence gathering. Keeping these in mind I have written this general blog which demonstrates methods to access Koo data without logging in.
+Therefore Koo application could be very handy for OSINTers especially if they are working on targets based in India. Koo can also pose challenge to local law enforcement agencies in criminal investigations and intelligence gathering. Keeping these in mind I have written this general blog which demonstrates methods to access Koo data without logging in.
 
 ### 1. Finding User Profile
 
@@ -192,10 +192,5 @@ It is understood that every user changes the way his/her account looks and they 
 > Step 3: Examine the profile contents of target on different dates after joining Koo
 
 
-
-### Scraping
-
-Anyone interested in scraping user details available on homepage can try this Python Script on Github
-[https://github.com/ka4n6/Koo_Scraping](https://github.com/ka4n6/Koo_Scraping). But keep legal provisions of the country in mind before venturing into this.
 
 Thanks for reading! I will conclude with the statement that Koo will continue to grow and there are a lot of things that needs to be done with respect to OSINT data collection from Koo.
