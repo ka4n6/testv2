@@ -17,7 +17,7 @@ description: This blog enlists all the important tools useful for OSINTers
 
 Having a ready list of tools saves a lot of time and effort during open source intelligence collection. Since there are different types of OSINT collections based on the objective of OSINT gathering, it is important to sort tools based on their applicability. I have tried to list all available tools under different heads for ease of access. Thanks to all those OSINT frameworks and OSINTers who have already compiled these tools and made their lists available to the OSINT community.
 
-<details open><summary>Frameworks</summary>
+### Frameworks
 ---
   
 - [Open Source Intelligence - osintcombine](https://www.osintcombine.com/tools)
@@ -52,13 +52,14 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Terrorism & Radicalisation Research Dashboard](https://start.me/p/OmExgb/terrorism-radicalisation-research-dashboard)
 
 ---  
-</details>
+
 
 <details><summary>Image Search</summary>
-
-- [Bing Reverse Image Search](https://www.bing.com/images/trending?FORM=ILPTRD)
-- [Yandex Images](https://yandex.com/images/)
-- [Google Images](https://images.google.ca/)
+<ul>
+<li>[Bing Reverse Image Search](https://www.bing.com/images/trending?FORM=ILPTRD)</li>
++[Yandex Images](https://yandex.com/images/)
+</ul>
++ [Google Images](https://images.google.ca/)
 - [Baidu](https://image.baidu.com/)
 - [TinEye](https://tineye.com/)
 - [image identify](https://www.imageidentify.com/)
