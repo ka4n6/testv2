@@ -139,7 +139,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Textmagic Carrier Lookup](https://www.textmagic.com/free-tools/carrier-lookup)
 - [Free Carrier Lookup](https://freecarrierlookup.com/)
 - [Neustar - Telo Customers!](https://www.home.neustar/telo-customers)
-- [Eyecon: Caller ID, Calls and Phone Contacts – Apps on Google Play](https://play.google.com/store/apps/details?id=com.eyecon.global&hl=en_IN&gl=US)
+- [Eyecon](https://play.google.com/store/apps/details?id=com.eyecon.global&hl=en_IN&gl=US)
 - [Cyniq.in](https://cyniq.in)
 - [Twilio Lookup](https://www.twilio.com/blog/identify-phone-number-carrier-with-twilio-lookup)
 
