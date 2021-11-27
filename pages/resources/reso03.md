@@ -18,13 +18,12 @@ description: This blog enlists all the important tools useful for OSINTers
 Having a ready list of tools saves a lot of time and effort during open source intelligence collection. Since there are different types of OSINT collections based on the objective of OSINT gathering, it is important to sort tools based on their applicability. I have tried to list all available tools under different heads for ease of access. Thanks to all those OSINT frameworks and OSINTers who have already compiled these tools and made their lists available to the OSINT community.
 
 <details open><summary>Frameworks</summary>
-<br>
-<ul>
-- [Open Source Intelligence - osintcombine](https://www.osintcombine.com/tools)
-- [OSINT Tools - Aware-online](https://www.aware-online.com/en/osint-tools/)
-- [OSINT Framework](https://osintframework.com/)
-- [OSINT Essentials](https://www.osintessentials.com/starter-tool)
-- [The OSINT Hub](https://start.me/p/BnrMKd/01-nordic-osint-resource-hub)
+
++ [Open Source Intelligence - osintcombine](https://www.osintcombine.com/tools)
++ [OSINT Tools - Aware-online](https://www.aware-online.com/en/osint-tools/)
++ [OSINT Framework](https://osintframework.com/)
++[OSINT Essentials](https://www.osintessentials.com/starter-tool)
++[The OSINT Hub](https://start.me/p/BnrMKd/01-nordic-osint-resource-hub)
 - [Technisette OSINT](https://start.me/p/m6XQ08/osint)
 - [OSINT Tools (curated by Lorand Bodo)](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
 - [SecAno](https://start.me/p/GEbM6z/secano)
@@ -50,7 +49,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Jornadas OSINT](https://start.me/p/BnBb5v/jornadas-osint)
 - [Scrummage](https://github.com/matamorphosis/Scrummage?s=09)
 - [Terrorism & Radicalisation Research Dashboard](https://start.me/p/OmExgb/terrorism-radicalisation-research-dashboard)
-</ul>
+
 </details>
 
 <details><summary>Image Search</summary>
