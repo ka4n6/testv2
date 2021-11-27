@@ -1,5 +1,5 @@
 title: OSINT Tools at Your Fingertips
-date: 13 Nov 21
+date: 27 Nov 21
 resources: resources
 tagosint: osint
 tagbasics: basics
@@ -87,7 +87,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
   - [Remove-bg](https://www.remove.bg/)
   - [Search4faces.com](https://search4faces.com/)
   - [Telegram: Contact @pimeyesbot](https://t.me/pimeyesbot)
-  - [Pic.sgou 搜狗图片-上网从搜狗开始](https://pic.sogou.com/)
+  - [Pic.sgou](https://pic.sogou.com/)
   - [same.energy](https://same.energy/)
   - [Image.so.com](https://image.so.com/)
 
@@ -119,8 +119,8 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Whatshalfway.com](https://www.whatshalfway.com/)
 - [ScribbleMaps](https://www.scribblemaps.com/)
 - [Overpass-turbo.eu](https://overpass-turbo.eu/)
-- [SunCalc](http://suncalc.net/#/50.4148,9.8286,6/2021.08.08/08:16)
-- [SunCalc sun position- und sun phases calculator](https://www.suncalc.org/#/36.1734,-37.2656,3/2021.07.30/08:59/1/3)
+- [SunCalc](http://suncalc.net)
+- [SunCalc - sun position](https://www.suncalc.org)
 - [3D map of the world by PeakVisor](https://peakvisor.com/panorama.html)
 
 
@@ -168,27 +168,26 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Instant Username Search](https://instantusername.com/)
 - [Username search tool - Aware-online](https://www.aware-online.com/en/osint-tools/username-search-tool/)
 - [Username Search by usersearch.org](https://usersearch.org/index.php)
-- [WhatsMyName Web](https://whatsmyname.app/)
+- [WhatsMyName](https://whatsmyname.app/)
 
 ---
 
 ### Email search
 
 - [Cyniq.in](https://cyniq.in)
-- https://hunter.io/
-- https://www.email-format.com/
+- [Hunter](https://hunter.io/)
+- [Email-format](https://www.email-format.com/)
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/)
 - [Email-validator.net](https://www.email-validator.net/)
 - [Skymem.info](https://www.skymem.info/)
-- https://dataminer.io/
+- [Dataminer](https://dataminer.io/)
 - [Username and Email Search](https://usersearch.org/index.php)
 
 ---
 
 ### Vehicle Search
 
-- [V A H A N - India](https://vahan.nic.in/nrservices/faces/user/citizen/citizenlogin.xhtml)
 - [This Domain Name is registered at Epik.com](https://carowners.net)
 - [VINCheck](https://www.nicb.org/vincheck)
 - [Oreillyauto](https://www.oreillyauto.com)
@@ -196,12 +195,13 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Check that VIN](https://checkthatvin.com/ctv/#/home)
 - [Vehicle History Reports – Carfax](https://www.carfax.com/vehicle-history-reports/)
 - [vehicle history](https://www.vehiclehistory.com/)
+- [V A H A N - India](https://vahan.nic.in/nrservices/faces/user/citizen/citizenlogin.xhtml)
 
 ---
 
 ### Domain Search
 
-- [Free online network tools - Centralops](https://centralops.net/co/)
+- [Online network tools - Centralops](https://centralops.net/co/)
 - [Whois.com](https://www.whois.com/whois/)
 - [domainbigdata](https://domainbigdata.com/)
 - [Domaintools: Research](https://research.domaintools.com/)
@@ -310,6 +310,10 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Scattered Secrets](https://scatteredsecrets.com/)
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Community - Black Kite](https://blackkite.com/community/)
+- [Craigslist](http://www.craigslist.org/)
+- [LeoList](https://www.leolist.cc/)
+- [ebay](https://www.ebay.ca/)
+- [Kijiji](https://www.kijiji.ca/)
 
 ---
 
@@ -321,18 +325,9 @@ Having a ready list of tools saves a lot of time and effort during open source i
 
 ---
 
-### Classified Data
-
-- [Craigslist](http://www.craigslist.org/)
-- [LeoList](https://www.leolist.cc/)
-- [ebay](https://www.ebay.ca/)
-- [Kijiji](https://www.kijiji.ca/)
-
----
-
 ### Newspaper
 
-- [newspaper map](https://newspapermap.com/)
+- [Newspaper map](https://newspapermap.com/)
 - [Paperboy](https://www.thepaperboy.com/)
 - [AllYouCanRead](https://www.allyoucanread.com/)
 - [NewspaperArchive](https://newspaperarchive.com/)
@@ -377,8 +372,8 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Raildar](https://raildar.co.uk/radar.html)
 
 ---
-
-### Facebook
+### Social Media
+##### Facebook
 
 - [Find my Facebook ID](https://lookup-id.com/)
 - [Fb-Search - snowdust](https://sowdust.github.io/fb-search/)
@@ -395,9 +390,9 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Ad Library Report](https://www.facebook.com/ads/library/report/)
 - [Forgot Password](https://www.facebook.com/login/identify?ctx=recover)
 
----
 
-### Twitter
+
+##### Twitter
 
 - [Twitter Advanced Search](https://twitter.com/search-advanced)
 - [Twitter Profiles Directory](https://twitter.com/i/directory/profiles)
@@ -410,7 +405,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Tweet Archivist](http://www.tweetarchivist.com/)
 - [Twiangulate](http://twiangulate.com/search/)
 - [Sleeping Time](http://sleepingtime.org/)
-- [geosocial footprint](http://geosocialfootprint.com/)
+- [Geosocial Footprint](http://geosocialfootprint.com/)
 - [Tweetmap](https://www.omnisci.com/demos/tweetmap)
 - [GeoChirp](http://www.geochirp.com/)
 - [Tinfoleak](https://tinfoleak.com/?__cf_chl_managed_tk__=285568472ee46b35e1b8dd308324981aadb47409-1625135405-0-ATN5ExyU2dIczgPH_z0YKIWFT6MLDSSgjn6rX3eesoSMqvjlkuoAnZjlsRs-J5dzxMPlVMSkZxPwySGKVicAbUw7gt1Aag5LdvWVkMfzY6j_5-eMbw3MdjbIdiusDUM25-qGNpSTxiQMhKmCtKbBt4etRO0-NTx9Jmsfp2W7xwo2a8eQmRymNEx4Lm-KwHXmAXntV7mz-t7pw9m2XN6tYoFdk-PkOnafkwknOHiO2Ba4uVK6HjejVgYOTUKbqocmnksMnH8k6V5eFkeCs4XsClpYuo40rxW-szTPVCMSFXuzw_PeynK-UTw6QRhs7c0QFYozU0Fg4zHJE3idNUEKfb43FrO3XNPbM7CWQuwasNPfwmCBqdOWV5VR6PFNlmTSMd7tVAvbdT_-LDrDq6IieYRZ6O8BjkCdwGIsePdw8Zmg3eQtt5F3qoqtKoyOc1RW_bDOLUqr5NdpZFNRGeCBfyHjd7sC6P-4dtRXEUEpiba19CiBhLPZ5mZ-gRp4VuLgfl3twsUFC8mjXu9Xzz3fcT1SRJLgsnVHrz_0NkvdTlU0nolfzsUXB3DD4PNlFLhFRpke5MmSzLBX_LcWNuDrl7E4FLaifu9jVJEOEpMlxV4c)
@@ -441,14 +436,14 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Treeverse](https://treeverse.app)
 - [Warble.co](https://warble.co/)
 
----
 
-### Telegram
+
+##### Telegram
 
 - [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
-- [Building graph for Telegram chats, channels and their neighbors](https://ntwrk.today/2020/04/09/building-telegram-graph.html)
+- [Building graph for Telegram chats and channels](https://ntwrk.today/2020/04/09/building-telegram-graph.html)
 - [TelegramDB.org](https://telegramdb.org/)
-- [Telegram Channels List: Discover interesting channels for your Telegram](https://tlgrm.eu/channels)
+- [Telegram Channels List](https://tlgrm.eu/channels)
 - [Telegram Channels](https://telegramchannels.me/)
 - [Lyzem Blog](https://lyzem.com/)
 - [Search.buzz.im](https://search.buzz.im/)
@@ -458,9 +453,9 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Skarlso/rscrap](https://github.com/Skarlso/rscrap)
 - [expectocode/telegram-export](https://github.com/expectocode/telegram-export)
 
----
 
-### Instagram</summary
+
+##### Instagram
 
 - [Searchmy.bio](https://www.searchmy.bio/)
 - [Social Searcher](https://www.social-searcher.com)
@@ -476,9 +471,9 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Storiesig.com](https://storiesig.com/)
 - [picdeer](https://picdeer.com)
 - [Pictame](https://www.pictame.com)
----
 
-### YouTube
+
+##### YouTube
 
 - [Location Search - mattw](https://mattw.io/youtube-geofind/location)
 - [YouTube Metadata - mattw](https://mattw.io/youtube-metadata/)
@@ -494,9 +489,9 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [HookTube](https://hooktube.com/)
 - [Digitalmethods  tools - youtube](https://tools.digitalmethods.net/netvizz/youtube/)
 
----
 
-### Tiktok
+
+##### Tiktok
 
 - [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search)
 - [TikTok Web Viewer Online and Analytics](https://vidnice.com/)
@@ -506,27 +501,27 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [TikTokApi 2.0](https://tiktokapi.ga/)
 - [Download Tik Tok video and audio](https://en.savefrom.net/download-from-tiktok)
 
----
 
-### Whatsapp
+
+##### Whatsapp
 
 - [LoranKloeze/WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp)
 - [WhatScraper](https://github.com/TheSpeedX/WhatScraper)
 
----
 
-### Linkedin
+
+##### Linkedin
 
 - [linkedin2username](https://github.com/initstring/linkedin2username)
 - [Sign Up | LinkedIn](https://www.linkedin.com/search/results/people/?firstName=*name&lastName=*surname&origin=SEO_PSERP)
 - [InSpy](https://github.com/leapsecurity/InSpy)
 - [linkedin_scraper](https://github.com/blackhatethicalhacking/linkedin_scraper)
 - [GoogLinked](https://github.com/pry0cc/GoogLinked)
-- [LIUsers.-archive](https://archive.org/download/LIUsers.7z)
+- [LIUsers - Archive](https://archive.org/download/LIUsers.7z)
 
----
 
-### Snapchat
+
+##### Snapchat
 
 - [Snap Map](https://map.snapchat.com/)
 - [username on Snapchat](https://www.snapchat.com/add/username)
@@ -539,26 +534,26 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [SomeSnapCode](https://somesnapcode.com)
 - [SoVIP](https://sovip.io)
 
----
 
-### Clubhouse
+
+##### Clubhouse
 
 - [Clubhouse Database](https://clubhousedb.com/)
 
----
 
-### Pinterest
+
+##### Pinterest
 
 - [Pinterest Group Boards & Analytics](https://pingroupie.com/)
----
 
-### Tumblr
+
+##### Tumblr
 
 - [Trending](https://www.tumblr.com/explore/trending)
 
----
 
-### Reddit
+
+##### Reddit
 
 - [Reddit Investigator](http://www.redditinvestigator.com/)
 - [Reddit Metrics](http://redditmetrics.com/)
@@ -573,17 +568,17 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=1231248.9168102785)
 - [Rdddeck.com](https://rdddeck.com/)
 
----
 
-### Other Social Media
+
+##### Other Social Media
 
 - [GitHub  - craigtutterow/sna-js](https://github.com/craigtutterow/sna-js)
 - [Sleeping Time](https://sleepingtime.org/)
-- [VK (Russia)](https://vk.com/)
-- [Facenama (Iran)](https://facenama.com/home)
-- [Mixi (Japan)](https://mixi.jp/)
-- [Qzone (China)](https://qzone.qq.com/)
-- [Weibo (China)](https://weibo.com/login.php)
+- [VK](https://vk.com/)
+- [Facenama](https://facenama.com/home)
+- [Mixi](https://mixi.jp/)
+- [Qzone](https://qzone.qq.com/)
+- [Weibo](https://weibo.com/login.php)
 
 ---
 
@@ -602,7 +597,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [CheckShortURL](http://checkshorturl.com/expand.php)
 - [Linkexpander.com](https://linkexpander.com/)
 - [Unshorten that URL!](https://unshorten.it/)
-- [Link Expander - Grabify IP Logger & URL Shortener](https://grabify.link/expander)
+- [Link Expander - Grabify](https://grabify.link/expander)
 - [Bit.do URL Shortener](http://bit.do/)
 - [Bitly](https://bitly.com/)
 - [Ow.ly](https://www.hootsuite.com/pages/owly)
@@ -632,7 +627,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Coindesk](https://www.coindesk.com/)
 - [LiveCoinWatch](https://www.livecoinwatch.com/)
 - [bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html)
-- [SSD Linux Virtual Server](https://bitnodes.io/)
+- [Bitnodes](https://bitnodes.io/)
 - [Blockchain Explorer](https://www.blockchain.com/explorer)
 - [Bitcoin Block Explorer](https://blockexplorer.com/)
 - [The Ethereum  Block Explorer](https://etherscan.io/)
@@ -662,9 +657,11 @@ Having a ready list of tools saves a lot of time and effort during open source i
 ### Command line tools
 
 - [laramies/theHarvester](https://github.com/laramies/theHarvester)
-- https://www.spiderfoot.net/
+- [Spiderfoot](https://www.spiderfoot.net/)
 - [Nmap](https://nmap.org/) & [Zenmap](https://nmap.org/zenmap/)
 - [Drishti](https://github.com/indiancyberops/Drishti)
+- [Shodan](https://cli.shodan.io/)
+- [Metagoofil](https://gitlab.com/kalilinux/packages/metagoofil)
 
 ---
 
@@ -682,7 +679,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 - [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-- [Hunter - Email Finder Extension - Chrome Web Store](https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj)
+- [Hunter - Email Finder Extension](https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj)
 - [Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
 - [IP Address and Domain Information](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa)
 - [Keywords Everywhere](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp)
@@ -699,12 +696,11 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Wayback Machine](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
 - [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)
-- [RevEye Reverse Image Search - Chrome Nettmarked](https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=no)
 - [Haris87/photosint](https://github.com/Haris87/photosint)
 - [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)
 - [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok)
 - [LoranKloeze/WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp)
-- [Lusha - Easily find B2B contact information - Chrome Web Store](https://chrome.google.com/webstore/detail/lusha-easily-find-b2b-con/mcebeofpilippmndlpcghpmghcljajna/related?hl=en)
+- [Lusha - Easily find B2B contact information](https://chrome.google.com/webstore/detail/lusha-easily-find-b2b-con/mcebeofpilippmndlpcghpmghcljajna/related?hl=en)
 - [OneNote Web Clipper Installation](https://www.onenote.com/clipper)
 - [FireShot](https://getfireshot.com)
 - [az0/linkgopher](https://github.com/az0/linkgopher/)
@@ -718,7 +714,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
 
 - [Search NGOs](https://ngodarpan.gov.in/index.php/search/)
 - [Search Govt Service](https://services.india.gov.in/?ln=en)
-- [V A H A N](https://vahan.nic.in/nrservices/faces/user/citizen/citizenlogin.xhtml)
+- [Vahan](https://vahan.nic.in/nrservices/faces/user/citizen/citizenlogin.xhtml)
 - [RNI](https://t.co/beARFQZaFC?amp=1)
 
 ---
@@ -731,6 +727,9 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [regexr.com/34sf0](https://regexr.com/34sf0)
 - [Converting Addresses to/from Latitude/Longitude/Altitude](https://stevemorse.org/jcal/latlon.php)
 - [OmniSci - Data Visualization Demos](https://www.omnisci.com/demos)
+- [Investigator](https://abhijithb200.github.io/investigator/)
+- [SEcraper](https://github.com/zerobyte-id/SEcraper)
+- [PCredz](https://github.com/lgandx/PCredz)
 
 ---
 
@@ -753,13 +752,13 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Million Short](https://millionshort.com/)
 - [iseek.ai](https://www.iseek.com/)
 - [eTools](https://www.etools.ch/)
-- [Yandex (Russia)](https://yandex.com/)
-- [Baidu (China)](http://www.baidu.com/)
-- [Metacrawler (UK)](https://www.metacrawler.co.uk/)
-- [Goo (Japan)](https://www.goo.ne.jp/)
-- [Daum (Korea)](https://www.daum.net/)
-- [Parseek (Iran)](https://www.parseek.com/)
-- [Search.walla.co.il (Israel)](https://search.walla.co.il/)
+- [Yandex - Russia](https://yandex.com/)
+- [Baidu - China](http://www.baidu.com/)
+- [Metacrawler - UK](https://www.metacrawler.co.uk/)
+- [Goo - Japan](https://www.goo.ne.jp/)
+- [Daum - Korea](https://www.daum.net/)
+- [Parseek - Iran](https://www.parseek.com/)
+- [Search.walla.co.il - Israel](https://search.walla.co.il/)
 
 ---
 
