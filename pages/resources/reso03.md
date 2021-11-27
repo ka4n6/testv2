@@ -18,7 +18,7 @@ description: This blog enlists all the important tools useful for OSINTers
 Having a ready list of tools saves a lot of time and effort during open source intelligence collection. Since there are different types of OSINT collections based on the objective of OSINT gathering, it is important to sort tools based on their applicability. I have tried to list all available tools under different heads for ease of access. Thanks to all those OSINT frameworks and OSINTers who have already compiled these tools and made their lists available to the OSINT community.
 
 ### Frameworks
----
+
   
 - [Open Source Intelligence - osintcombine](https://www.osintcombine.com/tools)
 - [OSINT Tools - Aware-online](https://www.aware-online.com/en/osint-tools/)
@@ -54,8 +54,8 @@ Having a ready list of tools saves a lot of time and effort during open source i
 ---  
 
 
-<details><summary>Image Search</summary>
-<span>
+### Image Search
+
   
   - [Bing Reverse Image Search](https://www.bing.com/images/trending?FORM=ILPTRD)
   - [Yandex Images](https://yandex.com/images/)
@@ -91,10 +91,9 @@ Having a ready list of tools saves a lot of time and effort during open source i
   - [same.energy](https://same.energy/)
   - [Image.so.com](https://image.so.com/)
 
-</span>
-</details>
+---
 
-<details><summary>Geolocation/Maps</summary>
+### Geolocation/Maps
 
 - [Google Maps](https://www.google.ca/maps/)
 - [Bing maps](https://www.bing.com/maps)
@@ -124,9 +123,8 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [SunCalc sun position- und sun phases calculator](https://www.suncalc.org/#/36.1734,-37.2656,3/2021.07.30/08:59/1/3)
 - [3D map of the world by PeakVisor](https://peakvisor.com/panorama.html)
 
-</details>
 
-<details><summary>Phone Number Search</summary>summary>
+### Phone Number Search
 
 - [Truecaller.com](https://www.truecaller.com/)
 - [Reverse Phone Lookup by Zlookup](https://www.zlookup.com/)
@@ -145,7 +143,7 @@ Having a ready list of tools saves a lot of time and effort during open source i
 - [Cyniq.in](https://cyniq.in)
 - [Twilio Lookup](https://www.twilio.com/blog/identify-phone-number-carrier-with-twilio-lookup)
 
-</details>
+---
 
 <details><summary>People search</summary>
 
